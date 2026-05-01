@@ -4,7 +4,7 @@ Welcome to my resume repository.
 
 ## Resume
 
-📄 [View My Resume](./Sneha_Resume.pdf)
+📄 [View My Resume](./resume_sneha.pdf)
 
 ## Skills
 
